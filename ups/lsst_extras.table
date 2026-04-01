@@ -1,2 +1,1 @@
-setupRequired(dax_ppdb)
 setupRequired(lsst_middleware)
